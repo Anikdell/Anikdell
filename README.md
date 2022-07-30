@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cleantechloops.com/wp-content/uploads/2021/05/full-stack-developer-960x360.jpg)]
+![MasterHead](https://www.cleantechloops.com/wp-content/uploads/2021/05/full-stack-developer-960x360.jpg)
 <h1 align="center">Hi 👋, I'm Anik Mitra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
