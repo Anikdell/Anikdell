@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [anikmitra.in](anikmitra.in)
+- 👨‍💻 All of my projects are available at [https://anikdigitalspace.netlify.app/](https://anikdigitalspace.netlify.app/)
 
 - 💬 Ask me about **.**
 
