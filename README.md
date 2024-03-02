@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anikmitradell@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u0tEBKZHHzoZjcGeq8omVUH--uv64BWp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vVio4QS_ziTFJL2slkxb45_FceG7boSo/view?usp=sharing
 
 - ⚡ Fun fact **I do fun with code**
 
