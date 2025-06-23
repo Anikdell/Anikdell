@@ -24,7 +24,7 @@
 - 🎓 B.Tech in Computer Science & Engineering  
 - 🔍 QA Automation Enthusiast | Full Stack Learner  
 - 🧪 Passionate about **Selenium**, **Java**, **TestNG**, and **Automation Frameworks**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1vVio4QS_ziTFJL2slkxb45_FceG7boSo/view?usp=sharing)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1TMwiKCORmyMJptsrhLUFhIpBAcBuILOe/view?usp=drive_link)  
 - 📫 Reach me: **anikmitradell@gmail.com**
 
 ---
