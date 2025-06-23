@@ -37,7 +37,7 @@
 | **Timesheet Automation (Cognizant)** | Automates profile/timesheet using config files, browser support |
 | **JustDial Services Automation** | Web scraping + form validation with alerts, menus, and listing |
 | **Flipkart Framework** | Data-driven testing, dynamic filters, screenshots, ExtentReports |
-| **Pixlyze (collab)** | AI-generated image detection |
+| **Hybrid-CNN-SVM-model-for-Action-Recognition-from-Videos** | AI-generated image detection |
 | …more on [My Portfolio](https://anikdigitalspace.netlify.app) |
 
 ---
