@@ -9,7 +9,7 @@
   <a href="https://twitter.com/mitrajack" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000?logo=twitter&logoColor=1DA1F2&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/anik-mitra" target="_blank">
+  <a href="https://linkedin.com/in/anik-mitra07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/anik_unofficial" target="_blank">
