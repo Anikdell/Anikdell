@@ -3,9 +3,9 @@
 <p align="center">💡 I love building clean automation frameworks & modern web applications 🚀</p>
 
 <p align="center">
-  <a href="https://anikdigitalspace.netlify.app" target="_blank">
+  <!-- <a href="https://anikdigitalspace.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" />
-  </a>
+  </a> -->
   <a href="https://twitter.com/mitrajack" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000?logo=twitter&logoColor=1DA1F2&style=for-the-badge" />
   </a>
