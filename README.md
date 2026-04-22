@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=([github.com](https://github.com/drknzz/GitHub-Achievements?utm_source=chatgpt.com))ue&vCenter=true&width=700&lines=QA+Automation+Engineer+%7C+Selenium+%7C+Playwright;Java+%7C+TestNG+%7C+API+Testing+Learner;Building+clean+frameworks+and+real-world+automation;Always+learning.+Always+shipping." alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer+%7C+Selenium+%7C+Playwright;Java+%7C+TestNG+%7C+API+Testing+Learner;Building+clean+frameworks+and+real-world+automation;Always+learning.+Always+shipping." alt="Typing SVG" />
+</p>
 
 ---
 
@@ -18,9 +20,12 @@
 > Your **official GitHub Achievements** will appear on your GitHub profile automatically if they are enabled in your GitHub profile settings.
 > This README can also show a trophy-style achievements section like below.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anik-mitra08&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img
+    src="https://trophy.ryglcloud.net/?username=Anik-mitra08&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
@@ -48,14 +53,15 @@
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### Testing & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <img src="https://img.shields.io/badge/Playwright-111111?style=for-the-badge&logo=playwright&logoColor=45ba63" />
-  <img src="https://img.shields.io/badge/TestNG-111111?style=for-the-badge&logo=testng&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-111111?style=for-the-badge&logo=junit5&logoColor=25A162" />
-  <img src="https://img.shields.io/badge/Extent%20Reports-111111?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+### 🧪 Testing & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ExtentReports-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
