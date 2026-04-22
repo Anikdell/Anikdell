@@ -85,7 +85,7 @@
 </p>
 
 ## GitHub Streaks 🔥
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=Anikdell&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=Anik-mitra08&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 ## Latest Tweet 🐦
 
