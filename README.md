@@ -66,10 +66,10 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,maven,vscode,firebase,mongodb,mysql,netlify,vercel,cucumber" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,maven,vscode,firebase,mongodb,mysql,netlify,vercel,gherkin" />
+  <img height="48" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" />
 </p>
 
----
 
 ## 📈 GitHub Analytics
 
