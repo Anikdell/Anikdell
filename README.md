@@ -74,8 +74,11 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anik-mitra08&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-mitra08&layout=compact&theme=radical&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anik-mitra08&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-mitra08&layout=compact&theme=radical&hide_border=true" />
+
 </div>
 
 <div align="center">
